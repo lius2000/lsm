@@ -359,7 +359,7 @@ http://192.168.100.1:8888/rtp/239.93.1.235:5140
 http://192.168.100.1:8888/rtp/239.93.1.157:4120
 #EXTINF:-1 tvg-id="6027" tvg-name="大爱四川" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="港澳台",大爱四川
 http://192.168.100.1:8888/rtp/239.93.1.110:5140
-#EXTINF:-1 tvg-id="" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰卫视
 http://192.168.100.1:8888/rtp/239.93.0.162:2192
-#EXTINF:-1 tvg-id="" tvg-name="V音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MTV.png" group-title="港澳台",V音乐台
+#EXTINF:-1 tvg-id="527" tvg-name="V音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MTV.png" group-title="港澳台",V音乐台
 http://192.168.100.1:8888/rtp/239.93.0.157:2194
