@@ -37,6 +37,22 @@ http://192.168.100.1:8888/rtp/239.93.1.36:8004
 http://192.168.100.1:8888/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
 http://192.168.100.1:8888/rtp/239.93.0.118:2191
+#EXTINF:-1 tvg-id="142" tvg-name="亚洲旅游台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="港澳台",亚洲旅游台
+http://192.168.100.1:8888/rtp/hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="lotustv" tvg-logo="" group-title="港澳台",澳门莲花台
+http://192.168.100.1:8888/rtp/live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="海外",FashionTV
+http://192.168.100.1:8888/rtp/lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="CHANNEL[V]" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="海外",MTV
+http://192.168.100.1:8888/rtp/unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="HBO" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="海外",HBO
+http://192.168.100.1:8888/rtp/136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="海外",彭博财经台
+http://192.168.100.1:8888/rtp/liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="海外",FOX HD
+http://192.168.100.1:8888/rtp/fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="未分类",CHC高清电影
+http://192.168.100.1:8888/rtp/ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="123" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="未分类",CETV-1高清
 http://192.168.100.1:8888/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
