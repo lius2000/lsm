@@ -8,7 +8,7 @@ http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u
 #EXTINF:-1 tvg-id="326" tvg-name="BESTV4K" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2001291R1420-L.jpg" group-title="4K频道",百视通4K
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="327" tvg-name="纯享4K" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dianshitai/chun4K.png" group-title="4K频道",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="332" tvg-name="4K花园" tvg-logo="https://p9-bk.byteimg.com/tos-cn-i-mlhdmxsy5m/a2c157bb9a6941a980badca0f550267b~tplv-mlhdmxsy5m-q75:0:0.image" group-title="4K频道",4K花园
 http://223.110.243.148/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 #EXTINF:-1 tvg-id="333" tvg-name="湖南综艺" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181015/2a8925ef332c4ddda6949878e683d2f0.jpeg" group-title="4K频道",湖南综艺4K
@@ -19,7 +19,7 @@ http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV-4K
 http://39.134.176.171/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1016" tvg-name="PP体育" tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="4K频道",PP体育
-http://117.136.154.98/PLTV/88888888/224/3221225753/index.m3u8
+http://39.135.33.12/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.100.1:8888/rtp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
