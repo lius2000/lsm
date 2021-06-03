@@ -3,8 +3,12 @@
 http://192.168.100.1:8888/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="7246" tvg-name="绚影4K" tvg-logo="http://kjsx.oss-cn-hangzhou.aliyuncs.com/ueditor/php/upload/image/20170223/1487818973432846.jpg" group-title="4K频道",绚影4K
 http://192.168.100.1:8888/rtp/239.93.42.33:5140
+#EXTINF:-1 tvg-id="7247" tvg-name="天翼高清4K" tvg-logo="http://img.improve-yourmemory.com/pic/945f959438f812aca52ff3305f5def5d-0.jpg" group-title="4K频道",天翼高清4K
+http://192.168.100.1:8888/rtp/239.93.1.113:5140
 #EXTINF:-1 tvg-id="3254" tvg-name="北京IPTV" tvg-logo="http://www.iptvandroidapk.com/photo/pc21684988-smart_iptv_android_apk_live_vod_my_iptv_4k_subscription_android_stable_sever.jpg" group-title="4K频道",北京IPTV+4K超清
 http://39.134.134.84/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226550/1.m3u8
+#EXTINF:-1 tvg-id="3255" tvg-name="北京冬奥纪实" tvg-logo="https://image.tianmaolive.com/Upload/tvchannel/20200311/202003111345465e687b0a2a86b.jpg" group-title="4K频道",北京冬奥纪实4K
+http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226563/1.m3u8
 #EXTINF:-1 tvg-id="326" tvg-name="BESTV4K" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-2001291R1420-L.jpg" group-title="4K频道",百视通4K
 http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226952/index.m3u8
 #EXTINF:-1 tvg-id="327" tvg-name="纯享4K" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dianshitai/chun4K.png" group-title="4K频道",纯享4K
@@ -199,6 +203,8 @@ http://192.168.100.1:8888/rtp/239.93.42.2:5140
 http://192.168.100.1:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nowtv.now.com/media/logo/211-wbg-c.png" group-title="iptv",求索科学高清
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="iptv",国家地理野生HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",上海纪实高清
 http://192.168.100.1:8888/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实高清
