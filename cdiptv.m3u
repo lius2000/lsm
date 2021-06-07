@@ -24,6 +24,26 @@ http://39.134.39.24/PLTV/88888888/224/3221226318/index.m3u8
 http://39.134.176.171/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1016" tvg-name="PP体育" tvg-logo="https://eimg.smzdm.com/201804/10/5acc23e7420729424.png" group-title="4K频道",PP体育
 http://39.135.33.12/PLTV/88888888/224/3221226716/index.m3u8
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="https://scitechinstitute.org/wp-content/uploads/2020/04/bbc-earth-240x180.jpg" group-title="4K频道",BBC Earth
+http://portal.ott.pink/watch/309/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="1018" tvg-name="HOME" tvg-logo="https://avk-wellcom.ru/assets/24h-img/f6902629654442d7fdc931930c3c6e0f.png" group-title="4K频道",HOME 4K
+http://portal.ott.pink/watch/256/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="1017" tvg-name="MOOZ" tvg-logo="https://mooz.tv/site/img/mooz-4k.jpg" group-title="4K频道",MOOZ 4K
+http://portal.ott.pink/watch/295/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="1019" tvg-name="Heritage" tvg-logo="https://www.thematv.com/images/channels/4k-heritage-tv.png" group-title="4K频道",Heritage 4K
+http://portal.ott.pink/watch/294/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="1021" tvg-name="Wow" tvg-logo="https://satkurier.pl/uploads/85122.jpg" group-title="4K频道",Wow 4K
+http://portal.ott.pink/watch/296/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="1022" tvg-name="NASA" tvg-logo="https://informitv.com/wordpress/wp-content/uploads/2015/11/NASA-UHD.jpg" group-title="4K频道",NASA 4K
+http://portal.ott.pink/watch/334/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="LoveNature.us" tvg-name="LOVENATURE" tvg-logo="https://i.imgur.com/AzOvgkV.png" group-title="4K频道",LOVENATURE
+http://portal.ott.pink/watch/232/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="701" tvg-name="FashionTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="4K频道",FashionTV
+http://portal.ott.pink/watch/23/video.m3u8?token=4F9489598D45E58D757CFC098AB61CC7
+#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="4K频道",国家地理HD
+http://xsrv.me:8080/Elizabeth/Elizabeth/33810
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="4K频道",彭博财经台
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1高清
 http://192.168.100.1:8888/rtp/239.93.0.184:5140
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2高清
@@ -63,7 +83,7 @@ http://192.168.100.1:8888/rtp/239.93.0.69:5140
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="央视",CETV-1高清
 http://192.168.100.1:8888/rtp/239.93.1.111:5140
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://www.tvyan.com/uploads/dianshi/fhzwt.jpg" group-title="海外",凤凰卫视
-http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
+http://192.168.100.1:8888/rtp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="海外",凤凰资讯
 http://192.168.100.1:8888/rtp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="147" tvg-name="lotustv" tvg-logo="http://www.tvyan.com/uploads/dianshi/lotustv.jpg" group-title="海外",澳门莲花台
@@ -71,7 +91,7 @@ http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="海外",民视新闻台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="海外",彭博财经台
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+http://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://i.imgur.com/bD9jUgK.png" group-title="海外",CNN国际台
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" group-title="海外",亚洲新闻
@@ -203,6 +223,8 @@ http://192.168.100.1:8888/rtp/239.93.42.2:5140
 http://192.168.100.1:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="https://www.nowtv.now.com/media/logo/211-wbg-c.png" group-title="iptv",求索科学高清
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 tvg-id="6036" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="iptv",国家地理HD
+http://xsrv.me:8080/Elizabeth/Elizabeth/33810
 #EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="iptv",国家地理野生HD
 https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",上海纪实高清
