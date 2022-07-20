@@ -30,7 +30,7 @@ http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122586
 #EXTINF:-1 tvg-id="327" tvg-name="南国都市4K" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png" group-title="4K频道",南国都市4K
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-id="327" tvg-name="纯享4K" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dianshitai/chun4K.png" group-title="4K频道",纯享4K
-http://[2409:8087:3869:8021:1000::aa]:6610/PLTV/88888910/224/3221225786/index.m3u8
+http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228165/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
 #EXTINF:-1 tvg-id="9999" tvg-name="CCTV8K" tvg-logo="https://iptv-pro.github.io/logo/CCTV8K.png" group-title="4K频道",CCTV 8K
 http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
 ##http://192.168.5.1:8888/rtp/239.93.42.61:5140
@@ -199,7 +199,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 ##http://39.134.19.251:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 ##http://192.168.5.1:8888/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="259" tvg-name="黑莓电影" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="iptv",黑莓电影
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225891/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
 #EXTINF:-1 tvg-id="259" tvg-name="湖南电影" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" group-title="iptv",湖南电影
 http://[2409:8087:5011:1020::1a]/180000001001/00000001000000001001000000000038/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="6601" tvg-name="DOX电影" tvg-logo="https://iptv-pro.github.io/logo/DOXTV4K.png" group-title="iptv",DOX电影
