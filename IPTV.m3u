@@ -18,7 +18,7 @@ http://live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="BESTV4K" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",BESTV4K
 http://192.168.5.1:8888/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="101" tvg-name="IPTV4K" tvg-logo="https://newsimg.dangbei.net/ueditor/php/upload/image/20180927/1538011571221339.jpg!0" group-title="4K频道",真4K
-http://[2409:8087:2004:10::2786:474b]/ott.js.chinamobile.com/PLTV/3/224/3221228141/index.m3u8?icpid=4&RTS=1639880648&from=1&hms_devid=221&vqe=3
+http://cache.ott.fifalive.itv.cmvideo.cn:80/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=no
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K频道",欢笑剧场4K
 http://live.rxip.sc96655.com/live/hxjc-4k_8000.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="4K修复" tvg-logo="https://iptv-pro.github.io/logo/4K.png" group-title="4K频道",4K修复
