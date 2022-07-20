@@ -30,7 +30,7 @@ http://[2409:8087:5c00:10:5::153]/cdnrrs.gx.chinamobile.com/PLTV/3/224/322122586
 #EXTINF:-1 tvg-id="327" tvg-name="南国都市4K" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png" group-title="4K频道",南国都市4K
 http://ye23.win/iptv/gztv.php?id=shenghuo
 #EXTINF:-1 tvg-id="327" tvg-name="纯享4K" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dianshitai/chun4K.png" group-title="4K频道",纯享4K
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="9999" tvg-name="CCTV8K" tvg-logo="https://iptv-pro.github.io/logo/CCTV8K.png" group-title="4K频道",CCTV 8K
 http://117.148.179.146/PLTV/88888888/224/3221233413/index.m3u8
 ##http://192.168.5.1:8888/rtp/239.93.42.61:5140
@@ -429,38 +429,38 @@ http://192.168.5.1:8888/rtp/239.93.42.62:5140
 http://live.rxip.sc96655.com/live/shssH265.m3u8
 
 #EXTINF:-1 tvg-id="242" tvg-name="NEWTV明星大片" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%98%8E%E6%98%9F%E5%A4%A7%E7%89%87.png" group-title="iptv",NEWTV明星大片
-http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="NEWTV海外剧场" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E6%B5%B7%E5%A4%96%E5%89%A7%E5%9C%BA.png" group-title="iptv",NEWTV海外剧场
-http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225712/index.m3u8
 #EXTINF:-1 tvg-id="231" tvg-name="NEWTV古装剧场" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%8F%A4%E8%A3%85%E5%89%A7%E5%9C%BA.png" group-title="iptv",NEWTV古装剧场
-http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225706/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225678/index.m3u8
 #EXTINF:-1 tvg-id="230" tvg-name="NEWTV军旅剧场" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%86%9B%E6%97%85%E5%89%A7%E5%9C%BA.png" group-title="iptv",NEWTV军旅剧场
-http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 #EXTINF:-1 tvg-id="233" tvg-name="NEWTV家庭剧场" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E5%AE%B6%E5%BA%AD%E5%89%A7%E5%9C%BA.png" group-title="iptv",NEWTV家庭剧场
-http://[2409:8087:3800:20:1000::803]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 tvg-id="223" tvg-name="NEWTV超级电视剧" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7.png" group-title="iptv",NEWTV超级电视剧
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225625/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="NEWTV爱情喜剧" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E7%88%B1%E6%83%85%E5%96%9C%E5%89%A7.png" group-title="iptv",NEWTV爱情喜剧
-http://[2409:8087:5c00:10:5::76]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225698/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225748/index.m3u8
 #EXTINF:-1 tvg-id="226" tvg-name="NEWTV精品大剧" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E7%B2%BE%E5%93%81%E5%A4%A7%E5%89%A7.png" group-title="iptv",NEWTV精品大剧
-http://[2409:8087:5c00:10:5::121]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225737/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 tvg-id="234" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E6%83%8A%E6%82%9A%E6%82%AC%E7%96%91.png" group-title="iptv",NEWTV惊悚悬疑
-http://[2409:8087:5c00:10:5::76]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225746/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 ##http://39.135.47.100:6610/000000001000/jingsongxy/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="222" tvg-name="NEWTV超级电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E8%B6%85%E7%BA%A7%E7%94%B5%E5%BD%B1.png" group-title="iptv",NEWTV超级电影
-http://[2409:8087:3800:20:1000::809]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225623/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225766/index.m3u8
 #EXTINF:-1 tvg-id="232" tvg-name="NEWTV动作电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="iptv",NEWTV动作电影
-http://[2409:8087:5c00:10:5::91]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225703/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 ##http://39.135.47.100:6610/000000001000/dongzuody/1.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="237" tvg-name="NEWTV精品记录" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E7%B2%BE%E5%93%81%E7%BA%AA%E5%BD%95.png" group-title="iptv",NEWTV精品记录
-http://[2409:8087:3800:20:1000::805]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="NEWTV欢乐剧场" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E6%AC%A2%E4%B9%90%E5%89%A7%E5%9C%BA.png" group-title="iptv",NEWTV欢乐剧场
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226210/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221226210/index.m3u8
 #EXTINF:-1 tvg-id="227" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E6%BD%AE%E5%A6%88%E8%BE%A3%E5%A9%86.png" group-title="iptv",NEWTV潮妈辣婆
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225708/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 tvg-id="225" tvg-name="NEWTV金牌综艺" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E9%87%91%E7%89%8C%E7%BB%BC%E8%89%BA.png" group-title="iptv",NEWTV金牌综艺
 http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-id="224" tvg-name="NEWTV超级综艺" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/NewTV%E8%B6%85%E7%BA%A7%E7%BB%BC%E8%89%BA.png" group-title="iptv",NEWTV超级综艺
-http://[2409:8087:3800:20:1000::804]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-id="242" tvg-name="NEWTV炫舞未来" tvg-logo="https://iptv-pro.github.io/logo/NewTV%E7%82%AB%E8%88%9E%E6%9C%AA%E6%9D%A5.png" group-title="iptv",NEWTV炫舞未来
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225707/index.m3u8
+http://[2409:8087:3800:20:1000::808]:8080/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225707/index.m3u8
