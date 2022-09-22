@@ -11,7 +11,7 @@ http://live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 http://192.168.5.1:8888/rtp/239.93.1.156:5140
 ##http://live.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="北京IPTV" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",北京IPTV+4K超清
-http://39.134.134.85/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8?servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=3QGHZfaujB8rRCsAsCvwpxxlHr4QY7xmzJA0CWZ2m2oFrdR%2B0WqiDAHoOrKmOBjJo1DAVyGMxV75D0k9A8UW52%2FrO%2F0g1FiOsgmHLskIhGej57NNTIcVyR%2FC8%2FqFakBO3%2B2%2FLci77HWE%2FMDUdCEgEA%3D%3D%3A20211105223205%2C10000100000000050000000003887500%2CF6D75A298389DD1E7C3B7D397327CA23%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2CEND
+http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京冬奥纪实
 http://live.rxip.sc96655.com/live/dajs-4k_8000.m3u8
 ##http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
