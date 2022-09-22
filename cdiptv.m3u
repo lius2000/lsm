@@ -148,13 +148,13 @@ http://192.168.5.1:8888/rtp/239.93.42.50:5140
 http://192.168.5.1:8888/rtp/239.93.42.49:5140
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="海外",凤凰卫视
-##http://192.168.5.1:8888/rtp/239.93.0.162:2192
+http://192.168.5.1:8888/rtp/239.93.0.162:2192
 ##http://111.13.42.232/PLTV/88888888/224/3221225942/1.m3u8
-http://live.rxip.sc96655.com/live/test1_4000.m3u8
+##http://live.rxip.sc96655.com/live/test1_4000.m3u8
 ##http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="海外",凤凰资讯
-http://live.rxip.sc96655.com/live/test2_4000.m3u8
-##http://192.168.5.1:8888/rtp/239.93.0.118:2191
+##http://live.rxip.sc96655.com/live/test2_4000.m3u8
+http://192.168.5.1:8888/rtp/239.93.0.118:2191
 ##http://111.13.42.237/PLTV/88888888/224/3221225949/1.m3u8
 ##http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://iptv-pro.github.io/logo/Viu%20TV.png" group-title="海外",ViuTV
