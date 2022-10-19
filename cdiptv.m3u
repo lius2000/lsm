@@ -137,6 +137,8 @@ http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012512503.m3u8
 ##http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://iptv-pro.github.io/logo/CETV1.png" group-title="央视",CETV-1高清
 http://192.168.5.1:8888/rtp/239.93.1.111:5140
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育4台" tvg-logo="https://iptv-pro.github.io/logo/CETV4.png" group-title="央视",CETV-4高清
+http://192.168.5.1:8888/rtp/239.93.0.133:5140
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://iptv-pro.github.io/logo/CGTN%E8%8B%B1%E8%AF%AD.png" group-title="央视",CGTN
 http://192.168.5.1:8888/rtp/239.93.0.104:5140
 #EXTINF:-1 tvg-id="891" tvg-name="CGTN纪录" tvg-logo="https://iptv-pro.github.io/logo/CGTN%E7%BA%AA%E5%BD%95.png" group-title="央视",CGTN纪录
