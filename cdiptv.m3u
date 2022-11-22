@@ -50,7 +50,7 @@ https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="ONE" tvg-name="LOUPE 4K" tvg-logo="https://play-lh.googleusercontent.com/RjM1R-ktRX0zRfdqLvCKrfMt9qFLSFXYP4Nt9ndfAFtbfeeyDeCijvbH-tT0T_UYM8s=s360-rw" group-title="4K频道",LOUPE 4K
 http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="1016" tvg-name="咪咕体育" tvg-logo="https://iptv-pro.github.io/logo/%E5%92%AA%E5%92%954k.png" group-title="4K频道",咪咕体育
-http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8?vamoschucktv
+http://39.135.42.203/cdnrrs.gx.chinamobile.com/PLTV/88888888/224/3221225863/index.m3u8
 ##http://39.134.39.37/PLTV/88888888/224/3221226227/index.m3u8
 #EXTINF:-1 tvg-id="1028" tvg-name="ONE 4K" tvg-logo="https://iptv-pro.github.io/logo/ONE.png" group-title="4K频道",ONE 4K
 http://136.243.42.146:1499
