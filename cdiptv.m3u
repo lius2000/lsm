@@ -186,16 +186,13 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 ##http://192.168.5.1:8888/rtp/239.93.0.157:2194 239.93.42.61:5140
 
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="iptv",CHC高清电影
-http://111.20.33.70/PLTV/88888893/224/3221226462/index.m3u8
-##http://39.134.19.251:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://222.79.112.138/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 ##http://192.168.5.1:8888/rtp/239.93.42.5:5140
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="iptv",CHC动作电影
-http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
-##http://39.134.19.251:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 ##http://192.168.5.1:8888/rtp/239.93.42.7:5140
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2.png" group-title="iptv",CHC家庭影院
-http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8
-##http://39.134.19.251:6610/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://222.79.112.138/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 ##http://192.168.5.1:8888/rtp/239.93.42.6:5140
 #EXTINF:-1 tvg-id="259" tvg-name="黑莓电影" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E7%94%B5%E5%BD%B1.png" group-title="iptv",黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
