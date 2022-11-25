@@ -12,8 +12,7 @@ http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 http://192.168.5.1:8888/rtp/239.93.1.156:5140
 ##http://live.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="北京IPTV" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",北京IPTV+4K超清
-http://219.142.151.179:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-##http://111.13.42.238/PLTV/88888888/224/3221226550/1.m3u8
+http://www.beifeng.site:4000/udp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京冬奥纪实
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="BESTV4K" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",BESTV4K
@@ -205,11 +204,11 @@ http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="6601" tvg-name="DOX电影" tvg-logo="https://iptv-pro.github.io/logo/DOXTV4K.png" group-title="iptv",DOX电影
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221230226/index.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="淘电影" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="iptv",淘电影
-http://219.142.151.179:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.beifeng.site:4000/udp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="1878" tvg-name="淘剧场" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98%E5%89%A7%E5%9C%BA.png" group-title="iptv",淘剧场
-http://219.142.151.179:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.beifeng.site:4000/udp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="1873" tvg-name="淘娱乐" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98%E5%A8%B1%E4%B9%90.png" group-title="iptv",淘娱乐
-http://219.142.151.179:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.beifeng.site:4000/udp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://iptv-pro.github.io/logo/dsjc.png" group-title="iptv",上海都市频道
 http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 
