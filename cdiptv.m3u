@@ -4,7 +4,7 @@ http://192.168.5.1:8888/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="9999" tvg-name="绚影4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png" group-title="4K频道",绚影4K
 http://192.168.5.1:8888/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="4K频道",CCTV-4K
-http://open.live-web.timetv.cn/live03/cctv4k.m3u8
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178&type=IPv6
 ##http://live.rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 ##https://v.bjiptv.eu.org/4.php
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
@@ -12,7 +12,8 @@ http://open.live-web.timetv.cn/live03/cctv4k.m3u8
 http://192.168.5.1:8888/rtp/239.93.1.156:5140
 ##http://live.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="北京IPTV" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",北京IPTV+4K超清
-http://www.beifeng.site:4000/udp/239.3.1.249:8001
+##http://www.beifeng.site:4000/udp/239.3.1.249:8001
+http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京冬奥纪实
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="BESTV4K" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",BESTV4K
@@ -98,39 +99,39 @@ http://111.20.105.192:6610/000000001000/5000000008000023254/index.m3u8?channel-i
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="央视",CCTV-17高清
 http://192.168.5.1:8888/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="6561" tvg-name="电视指南" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV电视指南
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 ##http://117.148.129.13/PLTV/88888888/224/3221231571/index.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E7%AC%AC%E4%B8%80%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV第一剧场
-http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 ##http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000569&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV怀旧剧场
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 ##http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000571&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E9%A3%8E%E4%BA%91%E5%89%A7%E5%9C%BA.png" group-title="央视",CCTV风云剧场
-http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 ##http://42.176.185.28:9901/tsfile/live/1030_1.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83.png" group-title="央视",CCTV风云足球
-http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 ##http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000576&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90.png" group-title="央视",CCTV风云音乐
-http://[2409:8087:6a01:1020::8]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A.png" group-title="央视",CCTV女性时尚
-http://[2409:8087:6a01:1020::3]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://iptv-pro.github.io/logo/CCTV%E5%A4%AE%E8%A7%86%E6%96%87%E5%8C%96%E7%B2%BE%E5%93%81.png" group-title="央视",CCTV文化精品
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 ##http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R61974758U30927004K7735947FI9BE73ABPBM356FAF3V0Z57EA5W16B8DF73913B73EF&programid=4200000573&playtoken=ABCDEFGH&auth=no
 ##http://42.176.185.28:9901/tsfile/live/1028_1.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86.png" group-title="央视",CCTV世界地理
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E5%85%B5%E5%99%A8%E7%A7%91%E6%8A%80.png" group-title="央视",CCTV兵器科技
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 ##http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000572&playtoken=ABCDEFGH&auth=no
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83.png" group-title="央视",CCTV央视台球
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls#http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 ##http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000596&playtoken=ABCDEFGH&auth=no
 ##http://teyonda.weetai.cn/iptv-cdn/公众号=太阳视界/tyzb01.php?id=DOXyinglunHD_7000
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E9%AB%98%E5%B0%94%E5%A4%AB%E7%BD%91%E7%90%83.png" group-title="央视",CCTV高尔夫网球
-http://[2409:8087:6a01:1020::c]/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 ##http://223.110.236.26/ott.js.chinamobile.com/PLTV/3/224/3221228138/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://iptv-pro.github.io/logo/CETV1.png" group-title="央视",CETV-1高清
 http://192.168.5.1:8888/rtp/239.93.1.111:5140
@@ -383,12 +384,12 @@ http://223.109.114.45/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mn
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://iptv-pro.github.io/logo/qsjilu.png" group-title="iptv",求索频道高清
 http://192.168.5.1:8888/rtp/239.93.42.24:5140
 #EXTINF:-1 tvg-id="6165" tvg-name="求索科学" tvg-logo="https://iptv-pro.github.io/logo/qskexue.png" group-title="iptv",求索科学高清
-http://111.40.196.9/0000000000001000/1/index.m3u8?Contentid=6000000002000032344&livemode=1&stbId=3&channel-id=wasusyt
+http://[2409:8087:4402:20:1:1216:401:46]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 ##http://39.135.189.152:6610/000000001001/6000000002000032344/1.m3u8?Contentid=6000000002000032344&livemode=1&stbId=2&channel-id=wasusyt
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="https://iptv-pro.github.io/logo/qsdongwu.png" group-title="iptv",求索动物高清
-http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000010046&livemode=1&stbId=3&channel-id=wasusyt
+http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%82%E7%B4%A2%E7%94%9F%E6%B4%BB.png" group-title="iptv",求索生活高清
-http://111.40.196.9/0000000000001000//1/index.m3u8?Contentid=6000000002000003382&livemode=1&stbId=3&channel-id=wasusyt
+http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="卫视",上海纪实高清
 http://192.168.5.1:8888/rtp/239.93.1.137:5140
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实高清
