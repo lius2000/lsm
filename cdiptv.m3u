@@ -25,7 +25,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="259" tvg-name="4K花园" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%8A%B1%E5%9B%AD.jpg" group-title="4K频道",4K花园
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="327" tvg-name="南国都市4K" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png" group-title="4K频道",南国都市4K
+#EXTINF:-1 tvg-id="327" tvg-name="4K测试" tvg-logo="https://iptv-pro.github.io/logo/cx4k.png" group-title="4K频道",4K测试
 http://192.168.5.1:8888/rtp/239.93.0.43:5140
 #EXTINF:-1 tvg-id="327" tvg-name="纯享4K" tvg-logo="https://gitee.com/mitv/tupian/raw/master/dianshitai/chun4K.png" group-title="4K频道",纯享4K
 http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
@@ -94,7 +94,7 @@ http://192.168.5.1:8888/rtp/239.93.0.103:5140
 http://192.168.5.1:8888/rtp/239.93.42.53:5140
 #http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://iptv-pro.github.io/logo/CCTV-16.png" group-title="央视",CCTV16 4K HDR
-http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="央视",CCTV-17高清
 http://192.168.5.1:8888/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="6561" tvg-name="电视指南" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV电视指南
@@ -156,16 +156,15 @@ http://192.168.5.1:8888/rtp/239.93.0.118:2191
 ##http://111.13.42.237/PLTV/88888888/224/3221225949/1.m3u8
 ##http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://iptv-pro.github.io/logo/Viu%20TV.png" group-title="海外",ViuTV
-https://cdn.hklive.tv/hls/99/index.m3u8
+https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="lotustv" tvg-logo="https://iptv-pro.github.io/logo/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="海外",澳门莲花台
 http://nettvpro.live/hls/lotustv.php
 #EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://iptv-pro.github.io/logo/%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="海外",民视新闻台
-https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
-##http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="海外",彭博财经台
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="https://iptv-pro.github.io/logo/CNN%20International.png" group-title="海外",CNN国际台
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="717" tvg-name="FOX News Now" tvg-logo="https://iptv-pro.github.io/logo/Fox%20News.png" group-title="海外",FOX News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="6139" tvg-name="ChannelNewsAsia" tvg-logo="https://i.mjh.nz/.images/tv.cna.png" group-title="海外",亚洲新闻
@@ -174,7 +173,7 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 ##http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Fashion&Lifestyle" tvg-name="HDFashion" tvg-logo="https://ukrtvr.org/images/sat/hdfashion.png" group-title="海外",乌克兰时尚台
-https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 ##http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-id="V2BEAT.uk" tvg-name="V2BEAT" tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-1.png" group-title="海外",V2BEAT
 http://de1se01.v2beat.live/playlist.m3u8
@@ -197,7 +196,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225718/2/index.m3u8
 #EXTINF:-1 tvg-id="259" tvg-name="湖南电影" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8D%97%E7%94%B5%E5%BD%B1.png" group-title="iptv",湖南电影
 http://223.151.51.27:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="6601" tvg-name="DOX电影" tvg-logo="https://iptv-pro.github.io/logo/DOXTV4K.png" group-title="iptv",DOX电影
+#EXTINF:-1 tvg-id="327" tvg-name="南国都市" tvg-logo="https://iptv-pro.github.io/logo/%E5%8D%97%E5%9B%BD%E9%83%BD%E5%B8%824K.png" group-title="iptv",南国都市
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="淘电影" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98%E7%94%B5%E5%BD%B1.png" group-title="iptv",淘电影
 http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.250:8001
@@ -206,7 +205,7 @@ http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="1873" tvg-name="淘娱乐" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV%E6%B7%98%E5%A8%B1%E4%B9%90.png" group-title="iptv",淘娱乐
 http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://iptv-pro.github.io/logo/dsjc.png" group-title="iptv",上海都市频道
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
+http://[2409:8087:4400:20:1:a0f:11:9]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 
 #EXTINF:-1 tvg-id="220" tvg-name="爱经典高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E7%BB%8F%E5%85%B8.png" group-title="iptv",爱经典高清
 http://192.168.5.1:8888/rtp/239.93.42.13:5140
@@ -282,7 +281,7 @@ http://192.168.5.1:8888/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png" group-title="四川",峨眉电影高清
 http://192.168.5.1:8888/rtp/239.93.42.47:5140
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="卫视",中国交通·四川
-http://192.168.5.1:8888/rtp/239.93.0.142:5140
+http://192.168.5.1:8888/rtp/239.93.42.62:5140
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视高清
 http://192.168.5.1:8888/rtp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视高清
@@ -329,8 +328,9 @@ http://192.168.5.1:8888/rtp/239.93.0.81:5140
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86.png" group-title="卫视",三沙卫视高清
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视",兵团卫视高清
-http://192.168.5.1:8888/rtp/239.93.42.43:5140
+#EXTINF:-1 tvg-id="61" tvg-name="新疆卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视高清
+#http://192.168.5.1:8888/rtp/239.93.42.43:5140
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="https://iptv-pro.github.io/logo/%E6%88%90%E9%83%BD%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="四川",CDTV-1高清
 http://192.168.5.1:8888/rtp/239.93.0.16:5140
@@ -377,7 +377,8 @@ http://192.168.5.1:8888/rtp/239.93.0.114:5140
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="iptv",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="iptv",劲爆体育
-http://[2409:8c20:9c71:120::34]/keonline.shanghai.liveplay.qq.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+http://39.134.165.130:6610/000000001000/5000000002000029972/index.m3u8?
+
 
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://iptv-pro.github.io/logo/qsjilu.png" group-title="iptv",求索频道高清
 http://192.168.5.1:8888/rtp/239.93.42.24:5140
