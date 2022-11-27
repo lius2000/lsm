@@ -155,7 +155,7 @@ http://192.168.5.1:8888/rtp/239.93.0.162:2192
 http://192.168.5.1:8888/rtp/239.93.0.118:2191
 ##http://111.13.42.237/PLTV/88888888/224/3221225949/1.m3u8
 ##http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://iptv-pro.github.io/logo/Viu%20TV.png" group-title="海外",ViuTV
+#EXTINF:-1 tvg-id="408" tvg-name="TVBS新闻台" tvg-logo="https://iptv-pro.github.io/logo/TVBS%E6%96%B0%E9%97%BB.png" group-title="海外",TVBS新闻台
 https://epg.pm/stream/b25d1fa77951f24d82b6f83f0a6eb8e9a9d4f22fc734ff47c86e3ac7a9d3e65a.m3u8
 #EXTINF:-1 tvg-id="147" tvg-name="lotustv" tvg-logo="https://iptv-pro.github.io/logo/%E6%BE%B3%E9%97%A8%E8%8E%B2%E8%8A%B1.png" group-title="海外",澳门莲花台
 http://nettvpro.live/hls/lotustv.php
