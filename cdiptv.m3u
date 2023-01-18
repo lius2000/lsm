@@ -16,7 +16,8 @@ http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.249:8001
 #EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京冬奥纪实
 http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="BESTV4K" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",BESTV4K
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+##http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
+http://159.75.85.63:5828/4kys.php
 #EXTINF:-1 tvg-id="101" tvg-name="IPTV4K" tvg-logo="https://newsimg.dangbei.net/ueditor/php/upload/image/20180927/1538011571221339.jpg!0" group-title="4K频道",IPTV4K
 http://home.111818.xyz:8888/udp/239.76.252.35:9000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K频道",欢笑剧场4K
