@@ -4,7 +4,8 @@ http://192.168.5.1:8888/rtp/239.93.0.97:5140
 #EXTINF:-1 tvg-id="9999" tvg-name="绚影4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png" group-title="4K频道",绚影4K
 http://192.168.5.1:8888/rtp/239.93.42.33:5140
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="4K频道",CCTV-4K
-https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+http://livehkkp.chinamcache.com/live/ys4Kcq_2000.m3u8
+##https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 ##http://[2409:8c02:21c:60::2b]/rxip.sc96655.com/live/ys4Kcq_2000.m3u8
 ##https://v.bjiptv.eu.org/4.php
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
@@ -95,7 +96,8 @@ http://192.168.5.1:8888/rtp/239.93.0.103:5140
 http://192.168.5.1:8888/rtp/239.93.42.53:5140
 #http://live.cooltv.top/tv/aishang.php?id=cctv164k
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://iptv-pro.github.io/logo/CCTV-16.png" group-title="央视",CCTV16 4K HDR
-https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
+http://livehkkp.chinamcache.com/live/CCTV-16-4K_8000.m3u8
+##https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="https://iptv-pro.github.io/logo/CCTV-17.png" group-title="央视",CCTV-17高清
 http://192.168.5.1:8888/rtp/239.93.0.92:5140
 #EXTINF:-1 tvg-id="6561" tvg-name="电视指南" tvg-logo="https://iptv-pro.github.io/logo/CCTV-%E7%94%B5%E8%A7%86%E6%8C%87%E5%8D%97.png" group-title="央视",CCTV电视指南
