@@ -8,7 +8,7 @@ http://159.75.85.63:5679/cctv4k.php
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="4K超高清电影" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="4K频道",4K超高清电影
 http://192.168.5.1:8888/rtp/239.93.1.156:5140
-##http://live.rxip.sc96655.com/live/emdy4k_8000.m3u8
+##http://[240e:944:6::22]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="北京IPTV" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",北京IPTV+4K超清
 http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京冬奥纪实
