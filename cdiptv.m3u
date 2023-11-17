@@ -1,13 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%88%B1%E4%B8%8A4K.png" group-title="4K频道",爱上4K
-http://192.168.5.1:8888/rtp/239.93.0.97:5140
+http://192.168.5.1:8888/rtp/239.93.0.97:5140	
 #EXTINF:-1 tvg-id="9999" tvg-name="绚影4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png" group-title="4K频道",绚影4K
-http://192.168.5.1:8888/rtp/239.93.42.33:5140
+http://192.168.5.1:8888/rtp/239.93.42.33:5140	
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="4K频道",CCTV-4K
 http://159.75.85.63:5679/cctv4k.php
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="4K超高清电影" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="4K频道",4K超高清电影
-http://192.168.5.1:8888/rtp/239.93.1.156:5140
+http://192.168.5.1:8888/rtp/239.93.0.43:5140	
 ##http://[240e:944:6::22]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="北京IPTV" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",北京IPTV+4K超清
 http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
@@ -54,9 +54,9 @@ http://136.243.42.146:1499
 http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://iptv-pro.github.io/logo/CCTV-1.png" group-title="央视",CCTV-1高清
-http://192.168.5.1:8888/rtp/239.93.0.69:5140
+http://192.168.5.1:8888/rtp/239.93.0.184:5140	
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://iptv-pro.github.io/logo/CCTV-2.png" group-title="央视",CCTV-2高清
-http://192.168.5.1:8888/rtp/239.93.1.23:6000
+http://192.168.5.1:8888/rtp/239.93.1.23:6000	
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://iptv-pro.github.io/logo/CCTV-3.png" group-title="央视",CCTV-3高清
 http://192.168.5.1:8888/rtp/239.93.1.11:2223
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4.png" group-title="央视",CCTV-4高清
