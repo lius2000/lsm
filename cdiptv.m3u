@@ -66,17 +66,17 @@ http://39.136.173.100/hlsmgsplive.miguvideo.com:8088/migu/kailu/20200324/cctv4ou
 #EXTINF:-1 tvg-id="23" tvg-name="CCTV4美洲" tvg-logo="https://iptv-pro.github.io/logo/CCTV4%E7%BE%8E%E6%B4%B2.png" group-title="央视",CCTV-4美洲高清
 http://39.136.173.100/hlsmgsplive.miguvideo.com:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5.png" group-title="iptv",CCTV-5高清
-http://192.168.5.1:8888/rtp/239.93.1.12:2224
+http://192.168.5.1:8888/rtp/239.93.42.37:5140	
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://iptv-pro.github.io/logo/CCTV-5%2B.png" group-title="央视",CCTV-5+高清
 http://192.168.5.1:8888/rtp/239.93.1.36:8004
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://iptv-pro.github.io/logo/CCTV-6.png" group-title="央视",CCTV-6高清
 http://192.168.5.1:8888/rtp/239.93.1.13:2226
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://iptv-pro.github.io/logo/CCTV-7.png" group-title="央视",CCTV-7高清
-http://192.168.5.1:8888/rtp/239.93.1.67:5140
+http://192.168.5.1:8888/rtp/239.93.42.39:5140	
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://iptv-pro.github.io/logo/CCTV-8.png" group-title="央视",CCTV-8高清
 http://192.168.5.1:8888/rtp/239.93.1.14:2225
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://iptv-pro.github.io/logo/CCTV-9.png" group-title="央视",CCTV-9高清
-http://192.168.5.1:8888/rtp/239.93.1.24:5140
+http://192.168.5.1:8888/rtp/239.93.1.24:5140	
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://iptv-pro.github.io/logo/CCTV-10.png" group-title="央视",CCTV-10高清
 http://192.168.5.1:8888/rtp/239.93.1.28:5140
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://iptv-pro.github.io/logo/CCTV-11.png" group-title="央视",CCTV-11高清
