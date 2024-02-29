@@ -356,7 +356,7 @@ http://192.168.5.1:8888/rtp/239.93.0.16:5140
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="https://iptv-pro.github.io/logo/%E6%88%90%E9%83%BD%E5%85%AC%E5%85%B1.png" group-title="四川",CDTV-5高清
 http://192.168.5.1:8888/rtp/239.93.1.231:5140
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="https://iptv-pro.github.io/logo/%E6%88%90%E9%83%BD%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA.png" group-title="四川",成都大运高清
-http://192.168.5.1:8888/rtp/239.93.0.224:1281
+http://192.168.5.1:8888/rtp/239.93.0.19:1250
 #EXTINF:-1 tvg-id="7243" tvg-name="wenjiang" tvg-logo="https://github.com/lius2000/lsm/raw/main/iwenjiang.png" group-title="四川",爱温江
 http://192.168.5.1:8888/rtp/239.93.1.104:1234
 #EXTINF:-1 tvg-id="124" tvg-name="熊猫新闻高清" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E7%86%8A%E7%8C%AB%E6%96%B0%E9%97%BB.png" group-title="四川",熊猫新闻高清
