@@ -297,7 +297,7 @@ http://192.168.5.1:8888/rtp/239.93.0.41:5140
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E5%B3%A8%E7%9C%89%E7%94%B5%E5%BD%B1.png" group-title="四川",峨眉电影高清
 http://192.168.5.1:8888/rtp/239.93.0.252:5140
 #EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E9%80%9A.png" group-title="卫视",中国交通·四川
-http://192.168.5.1:8888/rtp/239.93.42.62:5140
+http://192.168.5.1:8888/rtp/239.93.0.142:5140	
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86.png" group-title="卫视",天津卫视高清
 http://192.168.5.1:8888/rtp/239.93.0.167:5140
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",湖北卫视高清
