@@ -280,17 +280,17 @@ http://192.168.5.1:8888/rtp/239.93.0.182:5140
 http://192.168.5.1:8888/rtp/239.93.0.169:5140
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan1.png" group-title="四川",SCTV-2高清
 http://192.168.5.1:8888/rtp/239.93.1.101:5140
-#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="四川",SCTV-3高清
+#EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan2.png" group-title="四川",SCTV-3高清
 http://192.168.5.1:8888/rtp/239.93.1.102:5140
-#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="四川",SCTV-4高清
+#EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan3.png" group-title="四川",SCTV-4高清
 http://192.168.5.1:8888/rtp/239.93.0.47:5140
-#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="四川",SCTV-5高清
+#EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan4.png" group-title="四川",SCTV-5高清
 http://192.168.5.1:8888/rtp/239.93.0.166:5140
-#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="iptv",SCTV-7高清
+#EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan5.png" group-title="iptv",SCTV-7高清
 http://192.168.5.1:8888/rtp/239.93.0.219:5140
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan7.png" group-title="四川",SCTV-科教高清
 http://192.168.5.1:8888/rtp/239.93.42.44:5140
-#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E4%B9%A1%E6%9D%91%E9%A2%91%E9%81%93.png" group-title="四川",SCTV-乡村高清
+#EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan6.png" group-title="四川",SCTV-乡村高清
 http://192.168.5.1:8888/rtp/239.93.0.52:5140
 #EXTINF:-1 tvg-id="70" tvg-name="SCTV8" tvg-logo="https://iptv-pro.github.io/logo/%E5%BA%B7%E5%B7%B4%E5%8D%AB%E8%A7%86.png" group-title="四川",康巴卫视高清
 http://192.168.5.1:8888/rtp/239.93.0.41:5140
