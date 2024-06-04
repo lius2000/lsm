@@ -11,8 +11,8 @@ http://192.168.5.1:8888/rtp/239.93.0.43:5140
 ##http://[240e:944:6::22]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="北京IPTV" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",北京IPTV+4K超清
 http://qnap.yjnhome.com:4000/udp/239.3.1.249:8001
-#EXTINF:-1 tvg-id="1872" tvg-name="北京冬奥纪实" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京冬奥纪实
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实科教" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京纪实科教
+http://192.168.5.1:8888/rtp/239.93.0.141:5140	
 #EXTINF:-1 tvg-id="95" tvg-name="BESTV4K" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",BESTV4K
 ##http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
 http://159.75.85.63:5828/4kys.php
@@ -339,8 +339,7 @@ http://192.168.5.1:8888/rtp/239.93.42.45:5140
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",广西卫视高清
 http://192.168.5.1:8888/rtp/239.93.42.46:5140
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",陕西卫视高清
-##http://192.168.5.1:8888/rtp/239.93.0.176:5140
-http://122.228.87.14:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+http://192.168.5.1:8888/rtp/239.93.0.143:5140
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://iptv-pro.github.io/logo/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="卫视",甘肃卫视高清
 http://192.168.5.1:8888/rtp/239.93.0.81:5140
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",海南卫视高清
