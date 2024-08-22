@@ -324,7 +324,7 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",江西卫视高清
 http://192.168.5.1:8888/rtp/239.93.0.134:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",云南卫视高清
-http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+http://192.168.5.1:8888/rtp/239.93.1.174:5140	
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视高清
 http://192.168.5.1:8888/rtp/239.93.0.131:5140
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视高清
