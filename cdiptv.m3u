@@ -2,12 +2,12 @@
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%88%B1%E4%B8%8A4K.png" group-title="4K频道",爱上4K
 http://192.168.5.1:8888/rtp/239.94.0.21:5140			
 #EXTINF:-1 tvg-id="9999" tvg-name="绚影4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png" group-title="4K频道",绚影4K
-http://192.168.5.1:8888/rtp/239.93.42.33:5140	
+http://192.168.5.1:8888/rtp/239.94.1.69:5140		
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="4K频道",CCTV-4K
 http://192.168.5.1:8888/rtp/239.94.0.20:5140	
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="4K超高清电影" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="4K频道",4K超高清电影
-http://192.168.5.1:8888/rtp/239.93.0.43:5140	
+http://192.168.5.1:8888/rtp/239.94.1.70:5140		
 ##http://[240e:944:6::22]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="4K视界" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",4K视界
 http://192.168.5.1:8888/rtp/239.94.1.60:5140
@@ -19,7 +19,7 @@ http://159.75.85.63:5828/4kys.php
 #EXTINF:-1 tvg-id="101" tvg-name="IPTV4K" tvg-logo="https://newsimg.dangbei.net/ueditor/php/upload/image/20180927/1538011571221339.jpg!0" group-title="4K频道",IPTV4K
 http://home.111818.xyz:8888/udp/239.76.252.35:9000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K频道",欢笑剧场4K
-http://192.168.5.1:8888/rtp/239.94.1.176:5140	
+http://192.168.5.1:8888/rtp/239.94.1.176:5140		
 ##http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1977" tvg-name="4K修复" tvg-logo="https://iptv-pro.github.io/logo/4K.png" group-title="4K频道",4K修复
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -154,9 +154,9 @@ http://192.168.5.1:8888/rtp/239.94.0.40:5140
 #EXTINF:-1 tvg-id="891" tvg-name="CGTN纪录" tvg-logo="https://iptv-pro.github.io/logo/CGTN%E7%BA%AA%E5%BD%95.png" group-title="央视",CGTN纪录
 http://[2409:8087:5011:1020::1f]:80/180000001001/00000001000000000002000000028012/main.m3u8?IASHttpSessionId=OTT
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN法语" tvg-logo="https://iptv-pro.github.io/logo/CGTN%E6%B3%95%E8%AF%AD.png" group-title="央视",CGTN法语
-http://192.168.5.1:8888/rtp/239.93.42.50:5140
+http://192.168.5.1:8888/rtp/239.94.1.66:5140	
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN西班牙语" tvg-logo="https://iptv-pro.github.io/logo/CGTN%E8%A5%BF%E7%8F%AD%E7%89%99%E8%AF%AD.png" group-title="央视",CGTN西班牙语
-http://192.168.5.1:8888/rtp/239.93.42.49:5140
+http://192.168.5.1:8888/rtp/239.94.1.65:5140	
 
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://iptv-pro.github.io/logo/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0.png" group-title="海外",凤凰卫视
 http://192.168.5.1:8888/rtp/239.93.0.162:2192
@@ -198,7 +198,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="iptv",CHC高清电影
 ##http://live.rxip.sc96655.com/live/lnwsCHC-HDH265_4000.m3u8
 ##http://39.134.19.251:6610/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-http://192.168.5.1:8888/rtp/239.94.1.174:5140	
+http://192.168.5.1:8888/rtp/239.94.1.174:5140		
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://github.com/iptv-pro/iptv-pro.github.io/raw/main/logo/CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1.png" group-title="iptv",CHC动作电影
 ##http://live.rxip.sc96655.com/live/wqCHCdzdyH265_4000.m3u8
 ##http://39.134.19.251:6610/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -224,11 +224,11 @@ http://219.142.150.54:9901/tsfile/live/1013_1.m3u8
 http://192.168.5.1:8888/rtp/239.94.1.133:5140	
 
 #EXTINF:-1 tvg-id="220" tvg-name="爱经典高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E7%BB%8F%E5%85%B8.png" group-title="iptv",爱经典高清
-http://192.168.5.1:8888/rtp/239.93.42.13:5140
+http://192.168.5.1:8888/rtp/239.94.1.21:5140		
 #EXTINF:-1 tvg-id="308" tvg-name="爱悬疑高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E6%82%AC%E7%96%91.png" group-title="iptv",爱悬疑高清
 http://192.168.5.1:8888/rtp/239.94.1.136:5140	
 #EXTINF:-1 tvg-id="215" tvg-name="爱青春高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E9%9D%92%E6%98%A5.png" group-title="iptv",爱青春高清
-http://192.168.5.1:8888/rtp/239.93.42.16:5140
+http://192.168.5.1:8888/rtp/239.94.1.128:5140	
 #EXTINF:-1 tvg-id="219" tvg-name="爱奇谈高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E5%A5%87%E8%B0%88.png" group-title="iptv",爱奇谈高清
 http://192.168.5.1:8888/rtp/239.94.1.130:5140	
 #EXTINF:-1 tvg-id="311" tvg-name="爱都市高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E9%83%BD%E5%B8%82.png" group-title="iptv",爱都市高清
@@ -238,7 +238,7 @@ http://192.168.5.1:8888/rtp/239.94.1.132:5140
 #EXTINF:-1 tvg-id="213" tvg-name="爱喜剧高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E5%96%9C%E5%89%A7.png" group-title="iptv",爱喜剧高清
 http://192.168.5.1:8888/rtp/239.94.1.129:5140	
 #EXTINF:-1 tvg-id="301" tvg-name="爱怀旧高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E6%80%80%E6%97%A7.png" group-title="iptv",爱怀旧高清
-http://192.168.5.1:8888/rtp/239.93.42.21:5140
+http://192.168.5.1:8888/rtp/239.94.1.135:5140	
 #EXTINF:-1 tvg-id="216" tvg-name="爱科幻高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E7%A7%91%E5%B9%BB.png" group-title="iptv",爱科幻高清
 http://192.168.5.1:8888/rtp/239.94.1.131:5140	
 #EXTINF:-1 tvg-id="307" tvg-name="爱谍战高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E8%B0%8D%E6%88%98.png" group-title="iptv",爱谍战高清
@@ -250,17 +250,17 @@ http://192.168.5.1:8888/rtp/239.94.1.140:5140
 #EXTINF:-1 tvg-id="216" tvg-name="爱动漫高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E5%8A%A8%E6%BC%AB.png" group-title="iptv",爱动漫高清
 http://192.168.5.1:8888/rtp/239.94.1.141:5140	
 #EXTINF:-1 tvg-id="216" tvg-name="爱电竞高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E7%94%B5%E7%AB%9E.png" group-title="iptv",爱电竞高清
-http://192.168.5.1:8888/rtp/239.93.42.19:5140
+http://192.168.5.1:8888/rtp/239.94.1.143:5140	
 #EXTINF:-1 tvg-id="216" tvg-name="爱赛车高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E8%B5%9B%E8%BD%A6.png" group-title="iptv",爱赛车高清
-http://192.168.5.1:8888/rtp/239.93.42.20:5140
+http://192.168.5.1:8888/rtp/239.94.1.144:5140	
 #EXTINF:-1 tvg-id="300" tvg-name="每日影院" tvg-logo="https://iptv-pro.github.io/logo/CBN-%E6%AF%8F%E6%97%A5%E5%BD%B1%E9%99%A2.png" group-title="iptv",每日影院
-http://192.168.5.1:8888/rtp/239.93.42.35:5140
+http://192.168.5.1:8888/rtp/239.94.1.172:5140	
 #EXTINF:-1 tvg-id="320" tvg-name="风尚生活" tvg-logo="https://iptv-pro.github.io/logo/CBN-%E9%A3%8E%E5%B0%9A%E7%94%9F%E6%B4%BB.png" group-title="iptv",风尚生活
-http://192.168.5.1:8888/rtp/239.93.42.29:5140
+http://192.168.5.1:8888/rtp/239.94.1.146:5140	
 #EXTINF:-1 tvg-id="306" tvg-name="幸福剧场" tvg-logo="https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%89%A7%E5%9C%BA.png" group-title="iptv",幸福剧场
-http://192.168.5.1:8888/rtp/239.93.42.30:5140
-#EXTINF:-1 tvg-id="312" tvg-name="幸福娱乐" tvg-logo="https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%A8%B1%E4%B9%90.png" group-title="iptv",幸福娱乐
-http://192.168.5.1:8888/rtp/239.93.42.31:5140
+http://192.168.5.1:8888/rtp/239.94.1.26:5140	
+#EXTINF:-1 tvg-id="312" tvg-name="音乐现场" tvg-logo="https://iptv-pro.github.io/logo/CBN-%E5%B9%B8%E7%A6%8F%E5%A8%B1%E4%B9%90.png" group-title="iptv",幸福娱乐
+http://192.168.5.1:8888/rtp/239.94.1.36:5140	
 
 #EXTINF:-1 tvg-id="312" tvg-name="收视导视高清" tvg-logo="https://iptv-pro.github.io/logo/CIBN%E7%94%B5%E5%BD%B1%E5%AF%BC%E8%A7%86.png" group-title="iptv",收视导视高清
 http://192.168.5.1:8888/rtp/239.94.1.63:5140	
@@ -326,9 +326,9 @@ http://192.168.5.1:8888/rtp/239.94.0.79:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",云南卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.90:5140	
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视高清
-http://192.168.5.1:8888/rtp/239.94.0.83:5140	
+http://192.168.5.1:8888/rtp/239.94.0.97:5140	
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视高清
-http://192.168.5.1:8888/rtp/239.94.0.97:5140
+http://192.168.5.1:8888/rtp/239.94.0.83:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.86:5140	
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视高清
@@ -358,7 +358,7 @@ http://192.168.5.1:8888/rtp/239.94.0.158:5140
 #EXTINF:-1 tvg-id="2067" tvg-name="CDTV4" tvg-logo="https://iptv-pro.github.io/logo/%E6%88%90%E9%83%BD%E5%BD%B1%E8%A7%86%E6%96%87%E8%89%BA.png" group-title="四川",成都大运高清
 http://192.168.5.1:8888/rtp/239.94.0.157:5140	
 #EXTINF:-1 tvg-id="7243" tvg-name="wenjiang" tvg-logo="https://github.com/lius2000/lsm/raw/main/iwenjiang.png" group-title="四川",爱温江
-http://192.168.5.1:8888/rtp/239.93.1.104:1234
+http://192.168.5.1:8888/rtp/239.94.2.1:5140	
 #EXTINF:-1 tvg-id="124" tvg-name="熊猫新闻高清" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E5%B7%9D%E7%86%8A%E7%8C%AB%E6%96%B0%E9%97%BB.png" group-title="四川",熊猫新闻高清
 http://192.168.5.1:8888/rtp/239.94.1.3:5140
 #EXTINF:-1 tvg-id="125" tvg-name="熊猫体娱高清" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%9C%E6%96%B9%E6%96%B0%E5%A8%B1%E4%B9%90.png" group-title="四川",熊猫体娱高清
@@ -378,7 +378,7 @@ http://192.168.5.1:8888/rtp/239.94.1.156:5140
 #EXTINF:-1 tvg-id="320" tvg-name="中录动漫4K" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="iptv",中录动漫4K
 http://192.168.5.1:8888/rtp/239.94.1.162:5140	
 #EXTINF:-1 tvg-id="320" tvg-name="乐龄学堂" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="iptv",乐龄学堂
-http://192.168.5.1:8888/rtp/239.93.1.179:5140
+http://192.168.5.1:8888/rtp/239.94.1.165:5140	
 #EXTINF:-1 tvg-id="320" tvg-name="动画番剧" tvg-logo="https://iptv-pro.github.io/logo/%E9%BB%91%E8%8E%93%E5%8A%A8%E7%94%BB.png" group-title="iptv",动画番剧
 http://192.168.5.1:8888/rtp/239.93.1.177:5140
 #EXTINF:-1 tvg-id="320" tvg-name="红色经典" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="iptv",红色经典
@@ -386,13 +386,13 @@ http://192.168.5.1:8888/rtp/239.93.1.176:5140
 #EXTINF:-1 tvg-id="320" tvg-name="军情观察" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1%E5%8F%B0.png" group-title="iptv",军情观察
 http://192.168.5.1:8888/rtp/239.93.1.198:5140
 #EXTINF:-1 tvg-id="320" tvg-name="综艺咖秀" tvg-logo="https://iptv-pro.github.io/logo/%E5%A4%A9%E5%BA%9C%E6%97%B6%E5%B0%9A%E8%B5%B0%E7%A7%80.png" group-title="iptv",综艺咖秀
-http://192.168.5.1:8888/rtp/239.93.1.175:5140
+http://192.168.5.1:8888/rtp/239.94.1.35:5140	
 #EXTINF:-1 tvg-id="320" tvg-name="麻辣体育" tvg-logo="https://github.com/lius2000/lsm/raw/main/mlty.png" group-title="iptv",麻辣体育
-http://192.168.5.1:8888/rtp/239.93.42.2:5140
+http://192.168.5.1:8888/rtp/239.94.1.149:5140	
 #EXTINF:-1 tvg-id="6606" tvg-name="来钓鱼吧" tvg-logo="https://iptv-pro.github.io/logo/%E5%9B%9B%E6%B5%B7%E9%92%93%E9%B1%BC.png" group-title="iptv",来钓鱼吧
-http://192.168.5.1:8888/rtp/239.93.42.8:5140
+http://192.168.5.1:8888/rtp/239.94.1.148:5140		
 #EXTINF:-1 tvg-id="6606" tvg-name="茶频道" tvg-logo="https://iptv-pro.github.io/logo/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="iptv",茶频道
-http://192.168.5.1:8888/rtp/239.93.0.114:5140
+http://192.168.5.1:8888/rtp/239.94.1.154:5140	
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E6%96%B0%E8%A7%86%E8%A7%89.png" group-title="iptv",新视觉
 http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E5%8A%B2%E7%88%86%E4%BD%93%E8%82%B2.png" group-title="iptv",劲爆体育
@@ -422,7 +422,7 @@ http://192.168.5.1:8888/rtp/239.94.1.13:5140
 #EXTINF:-1 tvg-id="242" tvg-name="大爱生活" tvg-logo="https://iptv-pro.github.io/logo/%E6%97%B6%E4%BB%A3%E7%BE%8E%E9%A3%9F.png" group-title="四川",大爱生活
 http://192.168.5.1:8888/rtp/239.94.1.14:5140	
 #EXTINF:-1 tvg-id="242" tvg-name="斗牛财经" tvg-logo="https://iptv-pro.github.io/logo/CIBN%E6%96%97%E7%89%9B%E8%B4%A2%E7%BB%8F.png" group-title="四川",斗牛财经高清
-http://192.168.5.1:8888/rtp/239.93.42.62:5140
+http://192.168.5.1:8888/rtp/239.94.1.59:5140	
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://iptv-pro.github.io/logo/%E4%B8%8A%E6%B5%B7%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A.png" group-title="iptv",生活时尚
 http://[2409:8087:3408:20:5040::106]:18890/PLTV/88888888/224/3221227091/index.m3u8
 
