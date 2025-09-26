@@ -2,20 +2,20 @@
 #EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%88%B1%E4%B8%8A4K.png" group-title="4K频道",爱上4K
 http://192.168.5.1:8888/rtp/239.94.0.21:5140			
 #EXTINF:-1 tvg-id="9999" tvg-name="绚影4K" tvg-logo="https://iptv-pro.github.io/logo/%E7%BB%9A%E5%BD%B14K.png" group-title="4K频道",绚影4K
-http://192.168.5.1:8888/rtp/239.94.1.69:5140		
+http://192.168.5.1:8888/rtp/239.94.1.150:5140		
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://iptv-pro.github.io/logo/CCTV-4K.png" group-title="4K频道",CCTV-4K
 http://192.168.5.1:8888/rtp/239.94.0.20:5140	
 ##http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 tvg-id="2060" tvg-name="4K超高清电影" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="4K频道",4K超高清电影
-http://192.168.5.1:8888/rtp/239.94.1.70:5140		
+#EXTINF:-1 tvg-id="2060" tvg-name="4K纪实" tvg-logo="https://iptv-pro.github.io/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="4K频道",4K超高清电影
+http://192.168.5.1:8888/rtp/239.94.1.69:5140		
 ##http://[240e:944:6::22]/live2.rxip.sc96655.com/live/emdy4k_8000.m3u8
 #EXTINF:-1 tvg-id="1875" tvg-name="4K视界" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%ACIPTV-4K.png" group-title="4K频道",4K视界
 http://192.168.5.1:8888/rtp/239.94.1.60:5140
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实科教" tvg-logo="https://iptv-pro.github.io/logo/%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E7%BA%AA%E5%AE%9E.png" group-title="4K频道",北京纪实科教
 http://192.168.5.1:8888/rtp/239.94.0.109:5140	
-#EXTINF:-1 tvg-id="95" tvg-name="BESTV4K" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",BESTV4K
+#EXTINF:-1 tvg-id="95" tvg-name="4K少儿" tvg-logo="https://github.com/lius2000/lsm/raw/main/bestv4k.png" group-title="4K频道",4K少儿
 ##http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000441/index.m3u8?IAS
-http://159.75.85.63:5828/4kys.php
+http://192.168.5.1:8888/rtp/239.94.1.70:5140
 #EXTINF:-1 tvg-id="101" tvg-name="IPTV4K" tvg-logo="https://newsimg.dangbei.net/ueditor/php/upload/image/20180927/1538011571221339.jpg!0" group-title="4K频道",IPTV4K
 http://home.111818.xyz:8888/udp/239.76.252.35:9000
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://iptv-pro.github.io/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="4K频道",欢笑剧场4K
