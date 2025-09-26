@@ -223,11 +223,11 @@ http://219.142.150.54:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://iptv-pro.github.io/logo/dsjc.png" group-title="iptv",上海都市频道
 http://192.168.5.1:8888/rtp/239.94.1.133:5140	
 
-#EXTINF:-1 tvg-id="220" tvg-name="爱经典高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E7%BB%8F%E5%85%B8.png" group-title="iptv",爱经典高清
+#EXTINF:-1 tvg-id="220" tvg-name="爱历史高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E5%8E%86%E5%8F%B2.png" group-title="iptv",爱历史高清
 http://192.168.5.1:8888/rtp/239.94.1.21:5140		
 #EXTINF:-1 tvg-id="308" tvg-name="爱悬疑高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E6%82%AC%E7%96%91.png" group-title="iptv",爱悬疑高清
 http://192.168.5.1:8888/rtp/239.94.1.136:5140	
-#EXTINF:-1 tvg-id="215" tvg-name="爱青春高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E9%9D%92%E6%98%A5.png" group-title="iptv",爱青春高清
+#EXTINF:-1 tvg-id="215" tvg-name="爱浪漫高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E6%B5%AA%E6%BC%AB.png" group-title="iptv",爱浪漫高清
 http://192.168.5.1:8888/rtp/239.94.1.128:5140	
 #EXTINF:-1 tvg-id="219" tvg-name="爱奇谈高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E5%A5%87%E8%B0%88.png" group-title="iptv",爱奇谈高清
 http://192.168.5.1:8888/rtp/239.94.1.130:5140	
@@ -249,7 +249,7 @@ http://192.168.5.1:8888/rtp/239.94.1.139:5140
 http://192.168.5.1:8888/rtp/239.94.1.140:5140	
 #EXTINF:-1 tvg-id="216" tvg-name="爱动漫高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E5%8A%A8%E6%BC%AB.png" group-title="iptv",爱动漫高清
 http://192.168.5.1:8888/rtp/239.94.1.141:5140	
-#EXTINF:-1 tvg-id="216" tvg-name="爱电竞高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E7%94%B5%E7%AB%9E.png" group-title="iptv",爱电竞高清
+#EXTINF:-1 tvg-id="216" tvg-name="爱体育高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E4%BD%93%E8%82%B2.png" group-title="iptv",爱体育高清
 http://192.168.5.1:8888/rtp/239.94.1.143:5140	
 #EXTINF:-1 tvg-id="216" tvg-name="爱赛车高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E8%B5%9B%E8%BD%A6.png" group-title="iptv",爱赛车高清
 http://192.168.5.1:8888/rtp/239.94.1.144:5140	
@@ -325,9 +325,9 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226781/index.m3u
 http://192.168.5.1:8888/rtp/239.94.0.79:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",云南卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.90:5140	
-#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视高清
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.83:5140	
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视高清
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.97:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.86:5140	
@@ -348,7 +348,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225722/2/index.
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="61" tvg-name="新疆卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",新疆卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.98:5140	
-#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",兵团卫视高清
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86.png" group-title="卫视",兵团卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.102:5140	
 
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="https://iptv-pro.github.io/logo/%E6%88%90%E9%83%BD%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88.png" group-title="四川",CDTV-1高清
