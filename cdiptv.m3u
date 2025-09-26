@@ -326,9 +326,9 @@ http://192.168.5.1:8888/rtp/239.94.0.79:5140
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://iptv-pro.github.io/logo/%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",云南卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.90:5140	
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",贵州卫视高清
-http://192.168.5.1:8888/rtp/239.94.0.97:5140	
+http://192.168.5.1:8888/rtp/239.94.0.83:5140	
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://iptv-pro.github.io/logo/%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86.png" group-title="卫视",西藏卫视高清
-http://192.168.5.1:8888/rtp/239.94.0.83:5140
+http://192.168.5.1:8888/rtp/239.94.0.97:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://iptv-pro.github.io/logo/%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河北卫视高清
 http://192.168.5.1:8888/rtp/239.94.0.86:5140	
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://iptv-pro.github.io/logo/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="卫视",安徽卫视高清
