@@ -224,7 +224,7 @@ http://219.142.150.54:9901/tsfile/live/1013_1.m3u8
 http://192.168.5.1:8888/rtp/239.94.1.133:5140	
 
 #EXTINF:-1 tvg-id="220" tvg-name="爱历史高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E5%8E%86%E5%8F%B2.png" group-title="iptv",爱历史高清
-http://192.168.5.1:8888/rtp/239.94.1.21:5140		
+http://192.168.5.1:8888/rtp/239.94.1.135:5140		
 #EXTINF:-1 tvg-id="308" tvg-name="爱悬疑高清" tvg-logo="https://gitee.com/mitv/tupian/raw/master/ihot/IHOT-%E7%88%B1%E6%82%AC%E7%96%91.png" group-title="iptv",爱悬疑高清
 http://192.168.5.1:8888/rtp/239.94.1.136:5140	
 #EXTINF:-1 tvg-id="215" tvg-name="爱浪漫高清" tvg-logo="https://iptv-pro.github.io/logo/IHOT-%E7%88%B1%E6%B5%AA%E6%BC%AB.png" group-title="iptv",爱浪漫高清
